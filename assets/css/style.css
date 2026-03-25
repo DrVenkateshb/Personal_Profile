@@ -1211,3 +1211,17 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+<style>
+.scholar-metrics {
+  background: #f5f5f5;
+  padding: 15px;
+  border-radius: 10px;
+  width: 300px;
+  font-family: Arial;
+}
+
+.scholar-metrics h2 {
+  margin-bottom: 10px;
+}
+</style>
